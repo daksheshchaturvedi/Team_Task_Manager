@@ -15,24 +15,7 @@ JavaScript
 Backend:
 Python
 Django Framework
-Team_Task_Manager/
-│── manage.py
-│── Team_Task_Manager/
-│   │── settings.py
-│   │── urls.py
-│   │── asgi.py
-│   │── wsgi.py
-│
-│── app_name/
-│   │── models.py
-│   │── views.py
-│   │── urls.py
-│   │── templates/
-│   │── static/
-│
-│── static/
-│── templates/
-│── db.sqlite3
+
 
 Installation & Setup
 Clone the Repository
