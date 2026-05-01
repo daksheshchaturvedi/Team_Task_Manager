@@ -20,7 +20,7 @@ Django Framework
 Installation & Setup
 Clone the Repository
 
-git clone https://github.com/your-username/team-task-manager.git
+git clone https://github.com/daksheshchaturvedi/team-task-manager.git
 cd team-task-manager
 Create Virtual Environment
 python -m venv venv
