@@ -1,0 +1,13 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'css/create.css' %}">
+
+<form method="POST" class="form-box">
+    {% csrf_token %}
+    <h2>Create Project</h2>
+
+    <input type="text" name="name" placeholder="Project Name" required>
+    <textarea name="description" placeholder="Description"></textarea>
+
+    <button type="submit">Create</button>
+</form> 
